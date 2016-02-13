@@ -343,7 +343,8 @@ a:hover {
 
 .site #site-header {
 	margin:0 auto;
-	max-width:1260px
+	max-width:1260px;
+	border-top: 48px solid #005ce0;
 }
 
 .site #site-header:before,.site #site-header:after {
