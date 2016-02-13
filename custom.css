@@ -12,6 +12,10 @@ a:hover {
 	color:#000
 }
 
+li > ul, li > ol {
+    margin-bottom: 24px;
+}
+
 .page .hentry,.single .hentry {
 	margin-top:40px
 }
