@@ -1,1396 +1,1395 @@
 @font-face {
-	font-family: 'PT Sans';
-	font-style: normal;
-	font-weight: 400;
-	src: local('PT Sans'), local('PTSans-Regular'), url(//fonts.gstatic.com/s/ptsans/v8/JX7MlXqjSJNjQvI4heMMGvY6323mHUZFJMgTvxaG2iE.woff2) format("woff2")
+	font-family:'PT Sans';
+	font-style:normal;
+	font-weight:400;
+	src:local('PT Sans'), local('PTSans-Regular'), url(//fonts.gstatic.com/s/ptsans/v8/JX7MlXqjSJNjQvI4heMMGvY6323mHUZFJMgTvxaG2iE.woff2) format("woff2")
 }
 
 @font-face {
-	font-family: 'PT Sans';
-	font-style: normal;
-	font-weight: 400;
-	src: local('PT Sans'), local('PTSans-Regular'), url(//fonts.gstatic.com/s/ptsans/v8/vtwNVMP8y9C17vLvIBNZI_Y6323mHUZFJMgTvxaG2iE.woff2) format("woff2")
+	font-family:'PT Sans';
+	font-style:normal;
+	font-weight:400;
+	src:local('PT Sans'), local('PTSans-Regular'), url(//fonts.gstatic.com/s/ptsans/v8/vtwNVMP8y9C17vLvIBNZI_Y6323mHUZFJMgTvxaG2iE.woff2) format("woff2")
 }
 
 @font-face {
-	font-family: 'PT Sans';
-	font-style: normal;
-	font-weight: 400;
-	src: local('PT Sans'), local('PTSans-Regular'), url(//fonts.gstatic.com/s/ptsans/v8/9kaD4V2pNPMMeUVBHayd7vY6323mHUZFJMgTvxaG2iE.woff2) format("woff2")
+	font-family:'PT Sans';
+	font-style:normal;
+	font-weight:400;
+	src:local('PT Sans'), local('PTSans-Regular'), url(//fonts.gstatic.com/s/ptsans/v8/9kaD4V2pNPMMeUVBHayd7vY6323mHUZFJMgTvxaG2iE.woff2) format("woff2")
 }
 
 @font-face {
-	font-family: 'PT Sans';
-	font-style: normal;
-	font-weight: 400;
-	src: local('PT Sans'), local('PTSans-Regular'), url(//fonts.gstatic.com/s/ptsans/v8/ATKpv8nLYAKUYexo8iqqrg.woff2) format("woff2")
+	font-family:'PT Sans';
+	font-style:normal;
+	font-weight:400;
+	src:local('PT Sans'), local('PTSans-Regular'), url(//fonts.gstatic.com/s/ptsans/v8/ATKpv8nLYAKUYexo8iqqrg.woff2) format("woff2")
 }
 
 @font-face {
-	font-family: 'PT Sans';
-	font-style: normal;
-	font-weight: 700;
-	src: local('PT Sans Bold'), local('PTSans-Bold'), url(//fonts.gstatic.com/s/ptsans/v8/kTYfCWJhlldPf5LnG4ZnHCEAvth_LlrfE80CYdSH47w.woff2) format("woff2")
+	font-family:'PT Sans';
+	font-style:normal;
+	font-weight:700;
+	src:local('PT Sans Bold'), local('PTSans-Bold'), url(//fonts.gstatic.com/s/ptsans/v8/kTYfCWJhlldPf5LnG4ZnHCEAvth_LlrfE80CYdSH47w.woff2) format("woff2")
 }
 
 @font-face {
-	font-family: 'PT Sans';
-	font-style: normal;
-	font-weight: 700;
-	src: local('PT Sans Bold'), local('PTSans-Bold'), url(//fonts.gstatic.com/s/ptsans/v8/g46X4VH_KHOWAAa-HpnGPiEAvth_LlrfE80CYdSH47w.woff2) format("woff2")
+	font-family:'PT Sans';
+	font-style:normal;
+	font-weight:700;
+	src:local('PT Sans Bold'), local('PTSans-Bold'), url(//fonts.gstatic.com/s/ptsans/v8/g46X4VH_KHOWAAa-HpnGPiEAvth_LlrfE80CYdSH47w.woff2) format("woff2")
 }
 
 @font-face {
-	font-family: 'PT Sans';
-	font-style: normal;
-	font-weight: 700;
-	src: local('PT Sans Bold'), local('PTSans-Bold'), url(//fonts.gstatic.com/s/ptsans/v8/hpORcvLZtemlH8gI-1S-7iEAvth_LlrfE80CYdSH47w.woff2) format("woff2")
+	font-family:'PT Sans';
+	font-style:normal;
+	font-weight:700;
+	src:local('PT Sans Bold'), local('PTSans-Bold'), url(//fonts.gstatic.com/s/ptsans/v8/hpORcvLZtemlH8gI-1S-7iEAvth_LlrfE80CYdSH47w.woff2) format("woff2")
 }
 
 @font-face {
-	font-family: 'PT Sans';
-	font-style: normal;
-	font-weight: 700;
-	src: local('PT Sans Bold'), local('PTSans-Bold'), url(//fonts.gstatic.com/s/ptsans/v8/0XxGQsSc1g4rdRdjJKZrNPk_vArhqVIZ0nv9q090hN8.woff2) format("woff2")
+	font-family:'PT Sans';
+	font-style:normal;
+	font-weight:700;
+	src:local('PT Sans Bold'), local('PTSans-Bold'), url(//fonts.gstatic.com/s/ptsans/v8/0XxGQsSc1g4rdRdjJKZrNPk_vArhqVIZ0nv9q090hN8.woff2) format("woff2")
 }
 
 @font-face {
-	font-family: 'Slabo 27px';
-	font-style: normal;
-	font-weight: 400;
-	src: local('Slabo 27px'), local('Slabo27px-Regular'), url(//fonts.gstatic.com/s/slabo27px/v3/LfR9_S_HMdQ73mwIHBRxoSEAvth_LlrfE80CYdSH47w.woff2) format("woff2")
+	font-family:'Slabo 27px';
+	font-style:normal;
+	font-weight:400;
+	src:local('Slabo 27px'), local('Slabo27px-Regular'), url(//fonts.gstatic.com/s/slabo27px/v3/LfR9_S_HMdQ73mwIHBRxoSEAvth_LlrfE80CYdSH47w.woff2) format("woff2")
 }
 
 @font-face {
-	font-family: 'Slabo 27px';
-	font-style: normal;
-	font-weight: 400;
-	src: local('Slabo 27px'), local('Slabo27px-Regular'), url(//fonts.gstatic.com/s/slabo27px/v3/PuwvqkdbcqU-fCZ9Ed-b7fk_vArhqVIZ0nv9q090hN8.woff2) format("woff2")
+	font-family:'Slabo 27px';
+	font-style:normal;
+	font-weight:400;
+	src:local('Slabo 27px'), local('Slabo27px-Regular'), url(//fonts.gstatic.com/s/slabo27px/v3/PuwvqkdbcqU-fCZ9Ed-b7fk_vArhqVIZ0nv9q090hN8.woff2) format("woff2")
 }
 
 @font-face {
-	font-family: 'Open Sans';
-	font-style: normal;
-	font-weight: 700;
-	src: local('Open Sans Bold'), local('OpenSans-Bold'), url(//fonts.gstatic.com/s/opensans/v13/k3k702ZOKiLJc3WVjuplzK-j2U0lmluP9RWlSytm3ho.woff2) format("woff2")
+	font-family:'Open Sans';
+	font-style:normal;
+	font-weight:700;
+	src:local('Open Sans Bold'), local('OpenSans-Bold'), url(//fonts.gstatic.com/s/opensans/v13/k3k702ZOKiLJc3WVjuplzK-j2U0lmluP9RWlSytm3ho.woff2) format("woff2")
 }
 
 @font-face {
-	font-family: 'Open Sans';
-	font-style: normal;
-	font-weight: 700;
-	src: local('Open Sans Bold'), local('OpenSans-Bold'), url(//fonts.gstatic.com/s/opensans/v13/k3k702ZOKiLJc3WVjuplzJX5f-9o1vgP2EXwfjgl7AY.woff2) format("woff2")
+	font-family:'Open Sans';
+	font-style:normal;
+	font-weight:700;
+	src:local('Open Sans Bold'), local('OpenSans-Bold'), url(//fonts.gstatic.com/s/opensans/v13/k3k702ZOKiLJc3WVjuplzJX5f-9o1vgP2EXwfjgl7AY.woff2) format("woff2")
 }
 
 @font-face {
-	font-family: 'Open Sans';
-	font-style: normal;
-	font-weight: 700;
-	src: local('Open Sans Bold'), local('OpenSans-Bold'), url(//fonts.gstatic.com/s/opensans/v13/k3k702ZOKiLJc3WVjuplzETj6bCwSDA5u__Fbjwz3f0.woff2) format("woff2")
+	font-family:'Open Sans';
+	font-style:normal;
+	font-weight:700;
+	src:local('Open Sans Bold'), local('OpenSans-Bold'), url(//fonts.gstatic.com/s/opensans/v13/k3k702ZOKiLJc3WVjuplzETj6bCwSDA5u__Fbjwz3f0.woff2) format("woff2")
 }
 
 @font-face {
-	font-family: 'Open Sans';
-	font-style: normal;
-	font-weight: 700;
-	src: local('Open Sans Bold'), local('OpenSans-Bold'), url(//fonts.gstatic.com/s/opensans/v13/k3k702ZOKiLJc3WVjuplzBWV49_lSm1NYrwo-zkhivY.woff2) format("woff2")
+	font-family:'Open Sans';
+	font-style:normal;
+	font-weight:700;
+	src:local('Open Sans Bold'), local('OpenSans-Bold'), url(//fonts.gstatic.com/s/opensans/v13/k3k702ZOKiLJc3WVjuplzBWV49_lSm1NYrwo-zkhivY.woff2) format("woff2")
 }
 
 @font-face {
-	font-family: 'Open Sans';
-	font-style: normal;
-	font-weight: 700;
-	src: local('Open Sans Bold'), local('OpenSans-Bold'), url(//fonts.gstatic.com/s/opensans/v13/k3k702ZOKiLJc3WVjuplzKaRobkAwv3vxw3jMhVENGA.woff2) format("woff2")
+	font-family:'Open Sans';
+	font-style:normal;
+	font-weight:700;
+	src:local('Open Sans Bold'), local('OpenSans-Bold'), url(//fonts.gstatic.com/s/opensans/v13/k3k702ZOKiLJc3WVjuplzKaRobkAwv3vxw3jMhVENGA.woff2) format("woff2")
 }
 
 @font-face {
-	font-family: 'Open Sans';
-	font-style: normal;
-	font-weight: 700;
-	src: local('Open Sans Bold'), local('OpenSans-Bold'), url(//fonts.gstatic.com/s/opensans/v13/k3k702ZOKiLJc3WVjuplzP8zf_FOSsgRmwsS7Aa9k2w.woff2) format("woff2")
+	font-family:'Open Sans';
+	font-style:normal;
+	font-weight:700;
+	src:local('Open Sans Bold'), local('OpenSans-Bold'), url(//fonts.gstatic.com/s/opensans/v13/k3k702ZOKiLJc3WVjuplzP8zf_FOSsgRmwsS7Aa9k2w.woff2) format("woff2")
 }
 
 @font-face {
-	font-family: 'Open Sans';
-	font-style: normal;
-	font-weight: 700;
-	src: local('Open Sans Bold'), local('OpenSans-Bold'), url(//fonts.gstatic.com/s/opensans/v13/k3k702ZOKiLJc3WVjuplzD0LW-43aMEzIO6XUTLjad8.woff2) format("woff2")
+	font-family:'Open Sans';
+	font-style:normal;
+	font-weight:700;
+	src:local('Open Sans Bold'), local('OpenSans-Bold'), url(//fonts.gstatic.com/s/opensans/v13/k3k702ZOKiLJc3WVjuplzD0LW-43aMEzIO6XUTLjad8.woff2) format("woff2")
 }
 
 @font-face {
-	font-family: 'Open Sans';
-	font-style: normal;
-	font-weight: 700;
-	src: local('Open Sans Bold'), local('OpenSans-Bold'), url(//fonts.gstatic.com/s/opensans/v13/k3k702ZOKiLJc3WVjuplzOgdm0LZdjqr5-oayXSOefg.woff2) format("woff2")
+	font-family:'Open Sans';
+	font-style:normal;
+	font-weight:700;
+	src:local('Open Sans Bold'), local('OpenSans-Bold'), url(//fonts.gstatic.com/s/opensans/v13/k3k702ZOKiLJc3WVjuplzOgdm0LZdjqr5-oayXSOefg.woff2) format("woff2")
 }
 
 @font-face {
-	font-family: 'Open Sans';
-	font-style: normal;
-	font-weight: 800;
-	src: local('Open Sans Extrabold'), local('OpenSans-Extrabold'), url(//fonts.gstatic.com/s/opensans/v13/EInbV5DfGHOiMmvb1Xr-hq-j2U0lmluP9RWlSytm3ho.woff2) format("woff2")
+	font-family:'Open Sans';
+	font-style:normal;
+	font-weight:800;
+	src:local('Open Sans Extrabold'), local('OpenSans-Extrabold'), url(//fonts.gstatic.com/s/opensans/v13/EInbV5DfGHOiMmvb1Xr-hq-j2U0lmluP9RWlSytm3ho.woff2) format("woff2")
 }
 
 @font-face {
-	font-family: 'Open Sans';
-	font-style: normal;
-	font-weight: 800;
-	src: local('Open Sans Extrabold'), local('OpenSans-Extrabold'), url(//fonts.gstatic.com/s/opensans/v13/EInbV5DfGHOiMmvb1Xr-hpX5f-9o1vgP2EXwfjgl7AY.woff2) format("woff2")
+	font-family:'Open Sans';
+	font-style:normal;
+	font-weight:800;
+	src:local('Open Sans Extrabold'), local('OpenSans-Extrabold'), url(//fonts.gstatic.com/s/opensans/v13/EInbV5DfGHOiMmvb1Xr-hpX5f-9o1vgP2EXwfjgl7AY.woff2) format("woff2")
 }
 
 @font-face {
-	font-family: 'Open Sans';
-	font-style: normal;
-	font-weight: 800;
-	src: local('Open Sans Extrabold'), local('OpenSans-Extrabold'), url(//fonts.gstatic.com/s/opensans/v13/EInbV5DfGHOiMmvb1Xr-hkTj6bCwSDA5u__Fbjwz3f0.woff2) format("woff2")
+	font-family:'Open Sans';
+	font-style:normal;
+	font-weight:800;
+	src:local('Open Sans Extrabold'), local('OpenSans-Extrabold'), url(//fonts.gstatic.com/s/opensans/v13/EInbV5DfGHOiMmvb1Xr-hkTj6bCwSDA5u__Fbjwz3f0.woff2) format("woff2")
 }
 
 @font-face {
-	font-family: 'Open Sans';
-	font-style: normal;
-	font-weight: 800;
-	src: local('Open Sans Extrabold'), local('OpenSans-Extrabold'), url(//fonts.gstatic.com/s/opensans/v13/EInbV5DfGHOiMmvb1Xr-hhWV49_lSm1NYrwo-zkhivY.woff2) format("woff2")
+	font-family:'Open Sans';
+	font-style:normal;
+	font-weight:800;
+	src:local('Open Sans Extrabold'), local('OpenSans-Extrabold'), url(//fonts.gstatic.com/s/opensans/v13/EInbV5DfGHOiMmvb1Xr-hhWV49_lSm1NYrwo-zkhivY.woff2) format("woff2")
 }
 
 @font-face {
-	font-family: 'Open Sans';
-	font-style: normal;
-	font-weight: 800;
-	src: local('Open Sans Extrabold'), local('OpenSans-Extrabold'), url(//fonts.gstatic.com/s/opensans/v13/EInbV5DfGHOiMmvb1Xr-hqaRobkAwv3vxw3jMhVENGA.woff2) format("woff2")
+	font-family:'Open Sans';
+	font-style:normal;
+	font-weight:800;
+	src:local('Open Sans Extrabold'), local('OpenSans-Extrabold'), url(//fonts.gstatic.com/s/opensans/v13/EInbV5DfGHOiMmvb1Xr-hqaRobkAwv3vxw3jMhVENGA.woff2) format("woff2")
 }
 
 @font-face {
-	font-family: 'Open Sans';
-	font-style: normal;
-	font-weight: 800;
-	src: local('Open Sans Extrabold'), local('OpenSans-Extrabold'), url(//fonts.gstatic.com/s/opensans/v13/EInbV5DfGHOiMmvb1Xr-hv8zf_FOSsgRmwsS7Aa9k2w.woff2) format("woff2")
+	font-family:'Open Sans';
+	font-style:normal;
+	font-weight:800;
+	src:local('Open Sans Extrabold'), local('OpenSans-Extrabold'), url(//fonts.gstatic.com/s/opensans/v13/EInbV5DfGHOiMmvb1Xr-hv8zf_FOSsgRmwsS7Aa9k2w.woff2) format("woff2")
 }
 
 @font-face {
-	font-family: 'Open Sans';
-	font-style: normal;
-	font-weight: 800;
-	src: local('Open Sans Extrabold'), local('OpenSans-Extrabold'), url(//fonts.gstatic.com/s/opensans/v13/EInbV5DfGHOiMmvb1Xr-hj0LW-43aMEzIO6XUTLjad8.woff2) format("woff2")
+	font-family:'Open Sans';
+	font-style:normal;
+	font-weight:800;
+	src:local('Open Sans Extrabold'), local('OpenSans-Extrabold'), url(//fonts.gstatic.com/s/opensans/v13/EInbV5DfGHOiMmvb1Xr-hj0LW-43aMEzIO6XUTLjad8.woff2) format("woff2")
 }
 
 @font-face {
-	font-family: 'Open Sans';
-	font-style: normal;
-	font-weight: 800;
-	src: local('Open Sans Extrabold'), local('OpenSans-Extrabold'), url(//fonts.gstatic.com/s/opensans/v13/EInbV5DfGHOiMmvb1Xr-hugdm0LZdjqr5-oayXSOefg.woff2) format("woff2")
+	font-family:'Open Sans';
+	font-style:normal;
+	font-weight:800;
+	src:local('Open Sans Extrabold'), local('OpenSans-Extrabold'), url(//fonts.gstatic.com/s/opensans/v13/EInbV5DfGHOiMmvb1Xr-hugdm0LZdjqr5-oayXSOefg.woff2) format("woff2")
 }
 
 @font-face {
-	font-family: 'Open Sans';
-	font-style: italic;
-	font-weight: 700;
-	src: local('Open Sans Bold Italic'), local('OpenSans-BoldItalic'), url(//fonts.gstatic.com/s/opensans/v13/PRmiXeptR36kaC0GEAetxp6iIh_FvlUHQwED9Yt5Kbw.woff2) format("woff2")
+	font-family:'Open Sans';
+	font-style:italic;
+	font-weight:700;
+	src:local('Open Sans Bold Italic'), local('OpenSans-BoldItalic'), url(//fonts.gstatic.com/s/opensans/v13/PRmiXeptR36kaC0GEAetxp6iIh_FvlUHQwED9Yt5Kbw.woff2) format("woff2")
 }
 
 @font-face {
-	font-family: 'Open Sans';
-	font-style: italic;
-	font-weight: 700;
-	src: local('Open Sans Bold Italic'), local('OpenSans-BoldItalic'), url(//fonts.gstatic.com/s/opensans/v13/PRmiXeptR36kaC0GEAetxi_vZmeiCMnoWNN9rHBYaTc.woff2) format("woff2")
+	font-family:'Open Sans';
+	font-style:italic;
+	font-weight:700;
+	src:local('Open Sans Bold Italic'), local('OpenSans-BoldItalic'), url(//fonts.gstatic.com/s/opensans/v13/PRmiXeptR36kaC0GEAetxi_vZmeiCMnoWNN9rHBYaTc.woff2) format("woff2")
 }
 
 @font-face {
-	font-family: 'Open Sans';
-	font-style: italic;
-	font-weight: 700;
-	src: local('Open Sans Bold Italic'), local('OpenSans-BoldItalic'), url(//fonts.gstatic.com/s/opensans/v13/PRmiXeptR36kaC0GEAetxpRg-9ZTZj4Oi-6CEThT2Do.woff2) format("woff2")
+	font-family:'Open Sans';
+	font-style:italic;
+	font-weight:700;
+	src:local('Open Sans Bold Italic'), local('OpenSans-BoldItalic'), url(//fonts.gstatic.com/s/opensans/v13/PRmiXeptR36kaC0GEAetxpRg-9ZTZj4Oi-6CEThT2Do.woff2) format("woff2")
 }
 
 @font-face {
-	font-family: 'Open Sans';
-	font-style: italic;
-	font-weight: 700;
-	src: local('Open Sans Bold Italic'), local('OpenSans-BoldItalic'), url(//fonts.gstatic.com/s/opensans/v13/PRmiXeptR36kaC0GEAetxiFaMxiho_5XQnyRZzQsrZs.woff2) format("woff2")
+	font-family:'Open Sans';
+	font-style:italic;
+	font-weight:700;
+	src:local('Open Sans Bold Italic'), local('OpenSans-BoldItalic'), url(//fonts.gstatic.com/s/opensans/v13/PRmiXeptR36kaC0GEAetxiFaMxiho_5XQnyRZzQsrZs.woff2) format("woff2")
 }
 
 @font-face {
-	font-family: 'Open Sans';
-	font-style: italic;
-	font-weight: 700;
-	src: local('Open Sans Bold Italic'), local('OpenSans-BoldItalic'), url(//fonts.gstatic.com/s/opensans/v13/PRmiXeptR36kaC0GEAetxgalQocB-__pDVGhF3uS2Ks.woff2) format("woff2")
+	font-family:'Open Sans';
+	font-style:italic;
+	font-weight:700;
+	src:local('Open Sans Bold Italic'), local('OpenSans-BoldItalic'), url(//fonts.gstatic.com/s/opensans/v13/PRmiXeptR36kaC0GEAetxgalQocB-__pDVGhF3uS2Ks.woff2) format("woff2")
 }
 
 @font-face {
-	font-family: 'Open Sans';
-	font-style: italic;
-	font-weight: 700;
-	src: local('Open Sans Bold Italic'), local('OpenSans-BoldItalic'), url(//fonts.gstatic.com/s/opensans/v13/PRmiXeptR36kaC0GEAetxmhQUTDJGru-0vvUpABgH8I.woff2) format("woff2")
+	font-family:'Open Sans';
+	font-style:italic;
+	font-weight:700;
+	src:local('Open Sans Bold Italic'), local('OpenSans-BoldItalic'), url(//fonts.gstatic.com/s/opensans/v13/PRmiXeptR36kaC0GEAetxmhQUTDJGru-0vvUpABgH8I.woff2) format("woff2")
 }
 
 @font-face {
-	font-family: 'Open Sans';
-	font-style: italic;
-	font-weight: 700;
-	src: local('Open Sans Bold Italic'), local('OpenSans-BoldItalic'), url(//fonts.gstatic.com/s/opensans/v13/PRmiXeptR36kaC0GEAetxujkDdvhIIFj_YMdgqpnSB0.woff2) format("woff2")
+	font-family:'Open Sans';
+	font-style:italic;
+	font-weight:700;
+	src:local('Open Sans Bold Italic'), local('OpenSans-BoldItalic'), url(//fonts.gstatic.com/s/opensans/v13/PRmiXeptR36kaC0GEAetxujkDdvhIIFj_YMdgqpnSB0.woff2) format("woff2")
 }
 
 @font-face {
-	font-family: 'Open Sans';
-	font-style: italic;
-	font-weight: 700;
-	src: local('Open Sans Bold Italic'), local('OpenSans-BoldItalic'), url(//fonts.gstatic.com/s/opensans/v13/PRmiXeptR36kaC0GEAetxolIZu-HDpmDIZMigmsroc4.woff2) format("woff2")
+	font-family:'Open Sans';
+	font-style:italic;
+	font-weight:700;
+	src:local('Open Sans Bold Italic'), local('OpenSans-BoldItalic'), url(//fonts.gstatic.com/s/opensans/v13/PRmiXeptR36kaC0GEAetxolIZu-HDpmDIZMigmsroc4.woff2) format("woff2")
 }
 
 @font-face {
-	font-family: 'Open Sans';
-	font-style: italic;
-	font-weight: 800;
-	src: local('Open Sans Extrabold Italic'), local('OpenSans-ExtraboldItalic'), url(//fonts.gstatic.com/s/opensans/v13/PRmiXeptR36kaC0GEAetxiU8QAtQT9M0M1_mbVWrUPc.woff2) format("woff2")
+	font-family:'Open Sans';
+	font-style:italic;
+	font-weight:800;
+	src:local('Open Sans Extrabold Italic'), local('OpenSans-ExtraboldItalic'), url(//fonts.gstatic.com/s/opensans/v13/PRmiXeptR36kaC0GEAetxiU8QAtQT9M0M1_mbVWrUPc.woff2) format("woff2")
 }
 
 @font-face {
-	font-family: 'Open Sans';
-	font-style: italic;
-	font-weight: 800;
-	src: local('Open Sans Extrabold Italic'), local('OpenSans-ExtraboldItalic'), url(//fonts.gstatic.com/s/opensans/v13/PRmiXeptR36kaC0GEAetxkNaUOL0oYRolx8sebiIY9k.woff2) format("woff2")
+	font-family:'Open Sans';
+	font-style:italic;
+	font-weight:800;
+	src:local('Open Sans Extrabold Italic'), local('OpenSans-ExtraboldItalic'), url(//fonts.gstatic.com/s/opensans/v13/PRmiXeptR36kaC0GEAetxkNaUOL0oYRolx8sebiIY9k.woff2) format("woff2")
 }
 
 @font-face {
-	font-family: 'Open Sans';
-	font-style: italic;
-	font-weight: 800;
-	src: local('Open Sans Extrabold Italic'), local('OpenSans-ExtraboldItalic'), url(//fonts.gstatic.com/s/opensans/v13/PRmiXeptR36kaC0GEAetxiSlOvG9k9Qwm1rEEqyyHgs.woff2) format("woff2")
+	font-family:'Open Sans';
+	font-style:italic;
+	font-weight:800;
+	src:local('Open Sans Extrabold Italic'), local('OpenSans-ExtraboldItalic'), url(//fonts.gstatic.com/s/opensans/v13/PRmiXeptR36kaC0GEAetxiSlOvG9k9Qwm1rEEqyyHgs.woff2) format("woff2")
 }
 
 @font-face {
-	font-family: 'Open Sans';
-	font-style: italic;
-	font-weight: 800;
-	src: local('Open Sans Extrabold Italic'), local('OpenSans-ExtraboldItalic'), url(//fonts.gstatic.com/s/opensans/v13/PRmiXeptR36kaC0GEAetxooGEx1DzoxsbCRd2IM2afI.woff2) format("woff2")
+	font-family:'Open Sans';
+	font-style:italic;
+	font-weight:800;
+	src:local('Open Sans Extrabold Italic'), local('OpenSans-ExtraboldItalic'), url(//fonts.gstatic.com/s/opensans/v13/PRmiXeptR36kaC0GEAetxooGEx1DzoxsbCRd2IM2afI.woff2) format("woff2")
 }
 
 @font-face {
-	font-family: 'Open Sans';
-	font-style: italic;
-	font-weight: 800;
-	src: local('Open Sans Extrabold Italic'), local('OpenSans-ExtraboldItalic'), url(//fonts.gstatic.com/s/opensans/v13/PRmiXeptR36kaC0GEAetxnPzCMEhbIaaYiFY6KPniws.woff2) format("woff2")
+	font-family:'Open Sans';
+	font-style:italic;
+	font-weight:800;
+	src:local('Open Sans Extrabold Italic'), local('OpenSans-ExtraboldItalic'), url(//fonts.gstatic.com/s/opensans/v13/PRmiXeptR36kaC0GEAetxnPzCMEhbIaaYiFY6KPniws.woff2) format("woff2")
 }
 
 @font-face {
-	font-family: 'Open Sans';
-	font-style: italic;
-	font-weight: 800;
-	src: local('Open Sans Extrabold Italic'), local('OpenSans-ExtraboldItalic'), url(//fonts.gstatic.com/s/opensans/v13/PRmiXeptR36kaC0GEAetxmqi69zMYkLa7XwlUIemKB4.woff2) format("woff2")
+	font-family:'Open Sans';
+	font-style:italic;
+	font-weight:800;
+	src:local('Open Sans Extrabold Italic'), local('OpenSans-ExtraboldItalic'), url(//fonts.gstatic.com/s/opensans/v13/PRmiXeptR36kaC0GEAetxmqi69zMYkLa7XwlUIemKB4.woff2) format("woff2")
 }
 
 @font-face {
-	font-family: 'Open Sans';
-	font-style: italic;
-	font-weight: 800;
-	src: local('Open Sans Extrabold Italic'), local('OpenSans-ExtraboldItalic'), url(//fonts.gstatic.com/s/opensans/v13/PRmiXeptR36kaC0GEAetxowYyzpnB4tyYboSwKGmD2g.woff2) format("woff2")
+	font-family:'Open Sans';
+	font-style:italic;
+	font-weight:800;
+	src:local('Open Sans Extrabold Italic'), local('OpenSans-ExtraboldItalic'), url(//fonts.gstatic.com/s/opensans/v13/PRmiXeptR36kaC0GEAetxowYyzpnB4tyYboSwKGmD2g.woff2) format("woff2")
 }
 
 @font-face {
-	font-family: 'Open Sans';
-	font-style: italic;
-	font-weight: 800;
-	src: local('Open Sans Extrabold Italic'), local('OpenSans-ExtraboldItalic'), url(//fonts.gstatic.com/s/opensans/v13/PRmiXeptR36kaC0GEAetxnibbpXgLHK_uTT48UMyjSM.woff2) format("woff2")
+	font-family:'Open Sans';
+	font-style:italic;
+	font-weight:800;
+	src:local('Open Sans Extrabold Italic'), local('OpenSans-ExtraboldItalic'), url(//fonts.gstatic.com/s/opensans/v13/PRmiXeptR36kaC0GEAetxnibbpXgLHK_uTT48UMyjSM.woff2) format("woff2")
 }
 
 
 
 a  {
 
-	color: #143b42;
-	transition: color .5s
+	color:#143b42;
+	transition:color .5s
 }
 
-a: hover {
-	color: #000
+a:hover {
+	color:#000
 }
 
 .page .hentry,.single .hentry {
-	margin-top: 40px
+	margin-top:40px
 }
 
 .margin-auto {
-	margin: 0 auto
+	margin:0 auto
 }
 
 .max-1260 {
-	max-width: 1260px
+	max-width:1260px
 }
 
 .site {
-	margin: 0 auto;
-	max-width: 100%;
-	background: transparent
+	margin:0 auto;
+	max-width:100%;
+	background:transparent
 }
 
-.site: before {
-	display: none
+.site:before {
+	display:none
 }
 
 .site .site-header {
-	position: fixed;
-	top: 0;
-	left: 0;
-	width: 100%;
-	z-index: 100;
-	background: rgba(0,0,0,0.5);
-	max-width: 100%;
-	max-height: 48px
+	position:fixed;
+	top:0;
+	left:0;
+	width:100%;
+	z-index:100;
+	background:rgba(0,0,0,0.5);
+	max-width:100%;
+	max-height:48px
 }
 
 .site .header-main {
-	max-width: 1230px;
-	margin: 0 auto
+	max-width:1230px;
+	margin:0 auto
 }
 
 .site #site-header {
-	margin: 0 auto;
-	max-width: 1260px;
-	border-top: 48px solid #005ce0;
+	margin:0 auto;
+	max-width:1260px
 }
 
-.site #site-header: before,.site #site-header: after {
-	content: " ";
-	display: table
+.site #site-header:before,.site #site-header:after {
+	content:" ";
+	display:table
 }
 
-.site #site-header: after {
-	clear: both
+.site #site-header:after {
+	clear:both
 }
 
 .site .site-main {
-	margin: 0 auto;
-	max-width: 1260px;
-	background: rgba(255,255,255,0.98)
+	margin:0 auto;
+	max-width:1260px;
+	background:rgba(255,255,255,0.98)
 }
 
 .site .site-main .featured-content {
-	padding-left: 0
+	padding-left:0
 }
 
 .home .site .site-content {
-	margin: 60px auto 50px;
-	max-width: 80%
+	margin:60px auto 50px;
+	max-width:80%
 }
 
-@media screen and (min-width:  1080px) {
+@media screen and (min-width: 1080px) {
 	.site .site-content {
-	margin-left: 350px
+	margin-left:350px
 }
 
 
 }
 
 .home .site #secondary {
-	display: none
+	display:none
 }
 
 .site #secondary a.btn.btn-square {
-	font-size: 1.2em
+	font-size:1.2em
 }
 
-@media screen and (min-width:  1080px) {
+@media screen and (min-width: 1080px) {
 	.site #secondary {
-	margin-top: 238px;
-	color: #666;
-	width: 300px
+	margin-top:238px;
+	color:#666;
+	width:300px
 }
 
 .page .site #secondary,.single .site #secondary {
-	margin-top: 30px
+	margin-top:30px
 }
 
 
 }
 
 .site #secondary .widget-title,.site #secondary .widget-title a {
-	color: #666
+	color:#666
 }
 
 .masthead-fixed .site-main {
-	margin-top: 0
+	margin-top:0
 }
 
 .site-content .entry-header,.site-content .entry-content,.site-content .entry-summary,.site-content .entry-meta,.site-content .page-content {
-	background: transparent;
-	max-width: 900px
+	background:transparent;
+	max-width:900px
 }
 
 body {
-	font-family: 'Slabo 27px', serif !important;
-	font-size: 1em
+	font-family:'Slabo 27px', serif !important;
+	font-size:1em
 }
 
 h1,h2,h3,h4,h5,h6 {
-	font-family: 'Open Sans', sans-serif !important;
-	font-weight: 700 !important;
-	text-transform: uppercase;
-	line-height: 1.2;
-	transition: color .5s;
-	letter-spacing: .3px;
-	clear: none
+	font-family:'Open Sans', sans-serif !important;
+	font-weight:700 !important;
+	text-transform:uppercase;
+	line-height:1.2;
+	transition:color .5s;
+	letter-spacing:.3px;
+	clear:none
 }
 
-a h1: hover,a h2: hover,a h3: hover,a h4: hover,a h5: hover,a h6: hover {
-	color: #f0f0f0
+a h1:hover,a h2:hover,a h3:hover,a h4:hover,a h5:hover,a h6:hover {
+	color:#f0f0f0
 }
 
 h1,h2 {
-	clear: both
+	clear:both
 }
 
 h1 {
-	font-size: 2em !important
+	font-size:2em !important
 }
 
 h2 {
-	font-size: 1.5em !important
+	font-size:1.5em !important
 }
 
 h3 {
-	font-size: 1.2em !important
+	font-size:1.2em !important
 }
 
 h4 {
-	font-size: 1em !important
+	font-size:1em !important
 }
 
 .primary-navigation li > a {
-	color: #eaeaea;
-	transition: background-color .5s, color .5s
+	color:#eaeaea;
+	transition:background-color .5s, color .5s
 }
 
-.primary-navigation li: hover > a,.primary-navigation li.focus > a {
-	background-color: rgba(0,0,0,0.6);
-	color: #fff
+.primary-navigation li:hover > a,.primary-navigation li.focus > a {
+	background-color:rgba(0,0,0,0.6);
+	color:#fff
 }
 
-@media screen and (min-width:  783px) {
+@media screen and (min-width: 783px) {
 	.primary-navigation a {
-	font-family: 'Open Sans', sans-serif;
-	font-weight: 700;
-	font-size: 1.5em;
-	letter-spacing: 1px
+	font-family:'Open Sans', sans-serif;
+	font-weight:700;
+	font-size:1.5em;
+	letter-spacing:1px
 }
 
 
 }
 
 .primary-navigation .current-menu-item > a,.primary-navigation .current-menu-ancestor > a {
-	color: #fff;
-	background: rgba(0,0,0,0.2)
+	color:#fff;
+	background:rgba(0,0,0,0.2)
 }
 
 .primary-navigation ul ul {
-	background: rgba(0,0,0,0.8)
+	background:rgba(0,0,0,0.8)
 }
 
-.primary-navigation ul ul a: hover,.primary-navigation ul ul a: active,.primary-navigation ul ul li.focus > a {
-	background: #000
+.primary-navigation ul ul a:hover,.primary-navigation ul ul a:active,.primary-navigation ul ul li.focus > a {
+	background:#000
 }
 
 .search-toggle {
-	background-color: rgba(0,0,0,0.5);
-	transition: background-color .5s
+	background-color:rgba(0,0,0,0.5);
+	transition:background-color .5s
 }
 
-.search-toggle: hover,.search-toggle.active {
-	background-color: rgba(0,0,0,0.6)
+.search-toggle:hover,.search-toggle.active {
+	background-color:rgba(0,0,0,0.6)
 }
 
 .entry-title a {
-	transition: color .5s
+	transition:color .5s
 }
 
-.entry-title a: hover {
-	color: #666
+.entry-title a:hover {
+	color:#666
 }
 
 .search-box-wrapper {
-	padding: 0
+	padding:0
 }
 
-@media screen and (min-width:  1080px) {
+@media screen and (min-width: 1080px) {
 	.search-box-wrapper {
-	left: auto;
-	max-width: 1260px;
-	margin: 0 auto;
-	right: auto;
-	position: static
+	left:auto;
+	max-width:1260px;
+	margin:0 auto;
+	right:auto;
+	position:static
 }
 
 
 }
 
 .search-box-wrapper .search-box {
-	background-color: rgba(0,0,0,0.8)
+	background-color:rgba(0,0,0,0.8)
 }
 
 .featured-content {
-	background: #c3eaf4
+	background:#c3eaf4
 }
 
 .featured-content .post-169 {
-	background: #7ccbd8
+	background:#7ccbd8
 }
 
-.featured-content .post-169: hover {
-	background-color: #5bc
+.featured-content .post-169:hover {
+	background-color:#5bc
 }
 
 .featured-content .post-69 {
-	background: #a9e0ed
+	background:#a9e0ed
 }
 
-.featured-content .post-69: hover {
-	background-color: #7fd1e4
+.featured-content .post-69:hover {
+	background-color:#7fd1e4
 }
 
 .featured-content .post-61 {
-	background: #c3eaf4
+	background:#c3eaf4
 }
 
-.featured-content .post-61: hover {
-	background-color: #98dbec
+.featured-content .post-61:hover {
+	background-color:#98dbec
 }
 
 .featured-content .post {
-	transition: background-color .5s
+	transition:background-color .5s
 }
 
 .featured-content .post .entry-header {
-	height: auto;
-	min-height: 60px;
-	text-align: center;
-	border: none;
-	background-color: transparent
+	height:auto;
+	min-height:60px;
+	text-align:center;
+	border:none;
+	background-color:transparent
 }
 
 .featured-content .post .entry-header a {
-	display: block;
-	min-height: 60px;
-	padding-bottom: 10px
+	display:block;
+	min-height:60px;
+	padding-bottom:10px
 }
 
-.featured-content .post .entry-header a: hover {
-	color: #fff
+.featured-content .post .entry-header a:hover {
+	color:#fff
 }
 
 .featured-content .post-thumbnail {
-	padding-top: 225px
+	padding-top:225px
 }
 
-@media screen and (max-width:  672px) {
+@media screen and (max-width: 672px) {
 	.featured-content .post-thumbnail {
-	padding-top: 330px
+	padding-top:330px
 }
 
 
 }
 
-@media screen and (max-width:  560px) {
+@media screen and (max-width: 560px) {
 	.featured-content .post-thumbnail {
-	padding-top: 265px
+	padding-top:265px
 }
 
 
 }
 
-@media screen and (max-width:  400px) {
+@media screen and (max-width: 400px) {
 	.featured-content .post-thumbnail {
-	padding-top: 185px
+	padding-top:185px
 }
 
 
 }
 
-@media screen and (max-width:  350px) {
+@media screen and (max-width: 350px) {
 	.featured-content .post-thumbnail {
-	padding-top: 165px
+	padding-top:165px
 }
 
 
 }
 
-.featured-content .post-thumbnail: hover img {
-	opacity: 1
+.featured-content .post-thumbnail:hover img {
+	opacity:1
 }
 
 .featured-content .post-thumbnail img {
-	left: 0;
-	top: 0;
-	margin-left: 0
+	left:0;
+	top:0;
+	margin-left:0
 }
 
 a.btn {
-	display: inline-block;
-	padding: 20px;
-	color: #fff;
-	font-weight: 700;
-	text-decoration: none;
-	transition: background-color .5s, color .5s
+	display:inline-block;
+	padding:20px;
+	color:#fff;
+	font-weight:700;
+	text-decoration:none;
+	transition:background-color .5s, color .5s
 }
 
 a.btn.btn-lg {
-	display: block;
-	text-align: center;
-	padding: 20px 40px;
-	font-size: 1.5em
+	display:block;
+	text-align:center;
+	padding:20px 40px;
+	font-size:1.5em
 }
 
 a.btn.btn-info {
-	background: #7ccbd8
+	background:#7ccbd8
 }
 
-a.btn.btn-info: hover {
-	background-color: #5bc
+a.btn.btn-info:hover {
+	background-color:#5bc
 }
 
 a.btn.btn-square {
-	padding: 90px 80px;
-	word-break: break-word
+	padding:90px 80px;
+	word-break:break-word
 }
 
-@media screen and (max-width:  1200px) {
+@media screen and (max-width: 1200px) {
 	a.btn.btn-square {
-	padding: 90px 60px
+	padding:90px 60px
 }
 
 
 }
 
 p.row {
-	position: relative;
-	margin-left: -5px;
-	margin-right: -10px
+	position:relative;
+	margin-left:-5px;
+	margin-right:-10px
 }
 
-p.row: before,p.row: after {
-	content: " ";
-	display: table
+p.row:before,p.row:after {
+	content:" ";
+	display:table
 }
 
-p.row: after {
-	clear: both
+p.row:after {
+	clear:both
 }
 
-@media screen and (max-width:  756px) {
+@media screen and (max-width: 756px) {
 	p.row {
-	margin-left: 0;
-	margin-right: 0
+	margin-left:0;
+	margin-right:0
 }
 
 
 }
 
 p.row .col-6 {
-	float: left;
-	width: 48.5%;
-	box-sizing: border-box;
-	margin: 0 5px 10px
+	float:left;
+	width:48.5%;
+	box-sizing:border-box;
+	margin:0 5px 10px
 }
 
-@media screen and (max-width:  756px) {
+@media screen and (max-width: 756px) {
 	p.row .col-6 {
-	float: none;
-	width: 100%;
-	margin-left: 0;
-	margin-right: 0
+	float:none;
+	width:100%;
+	margin-left:0;
+	margin-right:0
 }
 
 
 }
 
 #secondary .site-description {
-	text-align: center;
-	line-height: 1.2;
-	font-size: 1.4em !important;
-	margin-bottom: 30px
+	text-align:center;
+	line-height:1.2;
+	font-size:1.4em !important;
+	margin-bottom:30px
 }
 
-.widget a: hover {
-	color: #fff
+.widget a:hover {
+	color:#fff
 }
 
 .wcorg-organizer {
-	border-top: 1px solid #eee;
-	padding-top: 30px;
-	margin-bottom: 30px
+	border-top:1px solid #eee;
+	padding-top:30px;
+	margin-bottom:30px
 }
 
-.wcorg-organizer: before,.wcorg-organizer: after {
-	content: " ";
-	display: table
+.wcorg-organizer:before,.wcorg-organizer:after {
+	content:" ";
+	display:table
 }
 
-.wcorg-organizer: after {
-	clear: both
+.wcorg-organizer:after {
+	clear:both
 }
 
-.wcorg-organizer: first-child {
-	border-top: none
+.wcorg-organizer:first-child {
+	border-top:none
 }
 
 .wcorg-organizer .wcorg-organizer-description .avatar {
-	float: left;
-	margin-right: 30px;
-	margin-bottom: 10px
+	float:left;
+	margin-right:30px;
+	margin-bottom:10px
 }
 
-@media screen and (min-width:  673px) {
-	.full-width .site-content .has-post-thumbnail .entry-header,.full-width .site-content .hentry.has-post-thumbnail: first-child {
-	margin-top: 10px
+@media screen and (min-width: 673px) {
+	.full-width .site-content .has-post-thumbnail .entry-header,.full-width .site-content .hentry.has-post-thumbnail:first-child {
+	margin-top:10px
 }
 
 
 }
 
-@media screen and (min-width:  1008px) {
+@media screen and (min-width: 1008px) {
 	.post-thumbnail {
-	padding-right: 0;
-	padding-left: 30px;
-	box-sizing: border-box;
-	background: transparent
+	padding-right:0;
+	padding-left:30px;
+	box-sizing:border-box;
+	background:transparent
 }
 
 .home .post-thumbnail {
-	padding-left: 0
+	padding-left:0
 }
 
 .content-area,.content-sidebar {
-	padding-top: 0
+	padding-top:0
 }
 
-.full-width .site-content .hentry.has-post-thumbnail: first-child {
-	margin-top: 0
+.full-width .site-content .hentry.has-post-thumbnail:first-child {
+	margin-top:0
 }
 
 
 }
 
-@media screen and (max-width:  1007px) {
+@media screen and (max-width: 1007px) {
 	.content-area,.content-sidebar {
-	padding-top: 0
+	padding-top:0
 }
 
-.full-width .site-content .hentry.has-post-thumbnail: first-child {
-	margin-top: 0
+.full-width .site-content .hentry.has-post-thumbnail:first-child {
+	margin-top:0
 }
 
 
 }
 
 .site-title a {
-	font-size: .69em
+	font-size:.69em
 }
 
 .footer-sidebar .widget {
-	float: none;
-	width: 100%
+	float:none;
+	width:100%
 }
 
 #menu-footer-menu {
-	text-align: center
+	text-align:center
 }
 
 #menu-footer-menu li {
-	display: inline-block;
-	border: none
+	display:inline-block;
+	border:none
 }
 
-@media screen and (max-width:  600px) {
+@media screen and (max-width: 600px) {
 	#menu-footer-menu li {
-	display: block
+	display:block
 }
 
 
 }
 
 #menu-footer-menu li a {
-	display: inline-block;
-	margin: 0 10px;
-	text-transform: uppercase;
-	font-family: 'Open Sans', sans-serif;
-	font-size: 1.4em;
-	font-weight: 600;
-	color: #fafafa;
-	transition: color .5s
+	display:inline-block;
+	margin:0 10px;
+	text-transform:uppercase;
+	font-family:'Open Sans', sans-serif;
+	font-size:1.4em;
+	font-weight:600;
+	color:#fafafa;
+	transition:color .5s
 }
 
-#menu-footer-menu li a: hover {
-	color: #fff
+#menu-footer-menu li a:hover {
+	color:#fff
 }
 
 #footer-sidebar {
-	padding-top: 10px
+	padding-top:10px
 }
 
 #footer-sidebar .widget {
-	margin-bottom: 3px
+	margin-bottom:3px
 }
 
 .site-info {
-	display: none
+	display:none
 }
 
 .site-footer {
-	background-color: #7ccbd8
+	background-color:#7ccbd8
 }
 
 .contact-form input[type=email],.contact-form input[type=text] {
-	width: 100%
+	width:100%
 }
 
 .contact-form textarea {
-	width: 100%;
-	max-width: 98%
+	width:100%;
+	max-width:98%
 }
 
 .contact-form input[type="submit"] {
-	background-color: #14678d;
-	width: 98%;
-	padding-top: 20px;
-	padding-bottom: 20px;
-	margin-top: 20px !important;
-	font-size: 1em;
-	font-family: 'Open Sans';
-	transition: background-color .5s
+	background-color:#14678d;
+	width:98%;
+	padding-top:20px;
+	padding-bottom:20px;
+	margin-top:20px !important;
+	font-size:1em;
+	font-family:'Open Sans';
+	transition:background-color .5s
 }
 
-.contact-form input[type="submit"]: hover {
-	background-color: #0e4660
+.contact-form input[type="submit"]:hover {
+	background-color:#0e4660
 }
 
-@media screen and (max-width:  600px) {
+@media screen and (max-width: 600px) {
 	#site-header > a {
-	display: block;
-	background: url('//krakow.wordcamp.org/2015/files/2015/06/header_mobile.png') no-repeat top center;
-	background-size: cover;
-	min-height: 123vw
+	display:block;
+	background:url('//krakow.wordcamp.org/2015/files/2015/06/header_mobile.png') no-repeat top center;
+	background-size:cover;
+	min-height:123vw
 }
 
 #site-header > a img {
-	opacity: 0
+	opacity:0
 }
 
 
 }
 
 .primary-navigation.toggled-on {
-	padding: 48px 0 36px;
-	margin: 0 -10px
+	padding:48px 0 36px;
+	margin:0 -10px
 }
 
-@media screen and (min-width:  783px) {
+@media screen and (min-width: 783px) {
 	.primary-navigation.toggled-on {
-	margin: 0 -30px;
-	width: 100%;
-	float: none;
-	position: absolute
+	margin:0 -30px;
+	width:100%;
+	float:none;
+	position:absolute
 }
 
 .primary-navigation.toggled-on li {
-	height: auto;
-	line-height: 1.2
+	height:auto;
+	line-height:1.2
 }
 
 .primary-navigation.toggled-on a {
-	display: block;
-	margin: 0;
-	line-height: 1.2;
-	text-align: right;
-	padding: 10px 15px!important;
-	color: #fff
+	display:block;
+	margin:0;
+	line-height:1.2;
+	text-align:right;
+	padding:10px 15px!important;
+	color:#fff
 }
 
-.primary-navigation.toggled-on .page_item_has_children > a: after,.primary-navigation.toggled-on .menu-item-has-children > a: after {
-	display: none
+.primary-navigation.toggled-on .page_item_has_children > a:after,.primary-navigation.toggled-on .menu-item-has-children > a:after {
+	display:none
 }
 
 
 }
 
-@media screen and (min-width:  672px) {
+@media screen and (min-width: 672px) {
 	.primary-navigation.toggled-on {
-	margin: 0 -30px
+	margin:0 -30px
 }
 
 
 }
 
 .primary-navigation.toggled-on .nav-menu {
-	background: rgba(0,0,0,0.5)
+	background:rgba(0,0,0,0.5)
 }
 
 .primary-navigation.toggled-on a {
-	padding: 7px 10px
+	padding:7px 10px
 }
 
 .primary-navigation.toggled-on ul ul {
-	display: none;
-	margin-left: 0;
-	background: rgba(0,0,0,0.2)
+	display:none;
+	margin-left:0;
+	background:rgba(0,0,0,0.2)
 }
 
 .primary-navigation.toggled-on ul ul a {
-	padding-left: 20px
+	padding-left:20px
 }
 
-@media screen and (min-width:  673px) and (max-width:  1008px) {
+@media screen and (min-width: 673px) and (max-width: 1008px) {
 	#post-61 {
-	float: none;
-	display: block;
-	margin: 0 auto;
-	clear: both
+	float:none;
+	display:block;
+	margin:0 auto;
+	clear:both
 }
 
 
 }
 
-@media screen and (min-width:  783px) {
+@media screen and (min-width: 783px) {
 	.primary-navigation .menu-toggle {
-	display: block;
-	padding: 0
+	display:block;
+	padding:0
 }
 
 
 }
 
-@media screen and (min-width:  1008px) {
+@media screen and (min-width: 1008px) {
 	.primary-navigation .menu-toggle {
-	display: none;
-	padding: 0
+	display:none;
+	padding:0
 }
 
 
 }
 
-@media screen and (min-width:  783px) and (max-width:  1007px) {
+@media screen and (min-width: 783px) and (max-width: 1007px) {
 	.primary-navigation .nav-menu {
-	border-bottom: 0;
-	display: none
+	border-bottom:0;
+	display:none
 }
 
 .primary-navigation .nav-menu li {
-	display: block
+	display:block
 }
 
 
 }
 
-@media screen and (min-width:  1008px) {
+@media screen and (min-width: 1008px) {
 	.primary-navigation .nav-menu {
-	border-bottom: 0;
-	display: block
+	border-bottom:0;
+	display:block
 }
 
 .primary-navigation .nav-menu > li a {
-	font-size: 1.1em
+	font-size:1.1em
 }
 
 
 }
 
-@media screen and (min-width:  1100px) {
+@media screen and (min-width: 1100px) {
 	.primary-navigation .nav-menu > li a {
-	font-size: 1.5em
+	font-size:1.5em
 }
 
 
 }
 
-@media screen and (min-width:  1008px) and (max-width:  1080px) {
+@media screen and (min-width: 1008px) and (max-width: 1080px) {
 	.site-content {
-	margin-left: 320px
+	margin-left:320px
 }
 
 #secondary {
-	width: 289px
+	width:289px
 }
 
 #secondary .site-description {
-	margin-top: 30px;
-	color: #666
+	margin-top:30px;
+	color:#666
 }
 
 
 }
 
 .widget-area .widget input,.widget-area .widget textarea,#subscribe-email input {
-	border: 1px solid rgba(0,0,0,0.1);
-	border-radius: 2px;
-	color: #2b2b2b;
-	padding: 10px;
-	background-image: -webkit-linear-gradient(rgba(255,255,255,0),rgba(255,255,255,0));
-	background-color: #fff
+	border:1px solid rgba(0,0,0,0.1);
+	border-radius:2px;
+	color:#2b2b2b;
+	padding:10px;
+	background-image:-webkit-linear-gradient(rgba(255,255,255,0),rgba(255,255,255,0));
+	background-color:#fff
 }
 
-.widget-area .widget input: focus,.widget-area .widget textarea: focus,#subscribe-email input: focus {
-	border: 1px solid rgba(0,0,0,0.3);
-	outline: 0
+.widget-area .widget input:focus,.widget-area .widget textarea:focus,#subscribe-email input:focus {
+	border:1px solid rgba(0,0,0,0.3);
+	outline:0
 }
 
 .widget input[type="submit"],.form-submit input[type="submit"],.tix-js input[type="submit"] {
-	background: #14678d;
-	display: block;
-	text-align: center;
-	padding: 10px 20px!important;
-	font-size: 1em !important;
-	font-family: 'Open Sans';
-	color: #fff;
-	transition: background .5s;
-	width: 98%;
-	border: none;
-	border-radius: 2px
+	background:#14678d;
+	display:block;
+	text-align:center;
+	padding:10px 20px!important;
+	font-size:1em !important;
+	font-family:'Open Sans';
+	color:#fff;
+	transition:background .5s;
+	width:98%;
+	border:none;
+	border-radius:2px
 }
 
-.widget input[type="submit"]: hover,.widget input[type="submit"]: focus,.widget input[type="submit"]: active,.form-submit input[type="submit"]: hover,.form-submit input[type="submit"]: focus,.form-submit input[type="submit"]: active,.tix-js input[type="submit"]: hover,.tix-js input[type="submit"]: focus,.tix-js input[type="submit"]: active {
-	background: #0e4660
+.widget input[type="submit"]:hover,.widget input[type="submit"]:focus,.widget input[type="submit"]:active,.form-submit input[type="submit"]:hover,.form-submit input[type="submit"]:focus,.form-submit input[type="submit"]:active,.tix-js input[type="submit"]:hover,.tix-js input[type="submit"]:focus,.tix-js input[type="submit"]:active {
+	background:#0e4660
 }
 
 .tix-js input[type="submit"] {
-	width: 100%
+	width:100%
 }
 
 .site #secondary .widget {
-	font-size: 1.2em
+	font-size:1.2em
 }
 
 .site #secondary .widget-title {
-	font-size: 1.2em !important;
-	margin-bottom: 10px
+	font-size:1.2em !important;
+	margin-bottom:10px
 }
 
 .site #secondary #subscribe-email input {
-	width: 98%
+	width:98%
 }
 
-: : -moz-selection {
-	color: #fff;
-	background: #7ccbd8
+::-moz-selection {
+	color:#fff;
+	background:#7ccbd8
 }
 
-: : selection {
-	color: #fff;
-	background: #7ccbd8
+::selection {
+	color:#fff;
+	background:#7ccbd8
 }
 
 #subscribe-text {
-	font-size: .8em
+	font-size:.8em
 }
 
 .post-navigation,.image-navigation,.comments-area {
-	max-width: 100%
+	max-width:100%
 }
 
-a.post-thumbnail: hover {
-	background: transparent
+a.post-thumbnail:hover {
+	background:transparent
 }
 
-@media screen and (min-width:  594px) {
+@media screen and (min-width: 594px) {
 	.site-content .has-post-thumbnail .entry-header {
-	margin-top: 0
+	margin-top:0
 }
 
 
 }
 
 .entry-meta .tag-links a {
-	transition: background-color .5s
+	transition:background-color .5s
 }
 
-.entry-meta .tag-links a: before {
-	transition: border-right-color .5s
+.entry-meta .tag-links a:before {
+	transition:border-right-color .5s
 }
 
-.entry-meta .tag-links a: hover {
-	background-color: #5bc
+.entry-meta .tag-links a:hover {
+	background-color:#5bc
 }
 
-.entry-meta .tag-links a: hover: before {
-	border-right-color: #5bc
+.entry-meta .tag-links a:hover:before {
+	border-right-color:#5bc
 }
 
 .entry-meta a {
-	transition: color .5s
+	transition:color .5s
 }
 
-.entry-meta a: hover {
-	color: #5bc
+.entry-meta a:hover {
+	color:#5bc
 }
 
-@media screen and (max-width:  400px) {
+@media screen and (max-width: 400px) {
 	.list-view .site-content .post-thumbnail img {
-	float: none;
-	margin: 0 0 10px;
-	width: 100%
+	float:none;
+	margin:0 0 10px;
+	width:100%
 }
 
 .list-view .site-content .entry-title {
-	font-size: 1.2em !important
+	font-size:1.2em !important
 }
 
 .site-title a {
-	font-size: .5em
+	font-size:.5em
 }
 
 
 }
 
 .tix-error,.tix-notice,.tix-info {
-	padding: 10px 15px 9px
+	padding:10px 15px 9px
 }
 
 .entry-content th,.comment-content th {
-	padding: 10px 8px 8px;
-	font-family: 'Open Sans', sans-serif
+	padding:10px 8px 8px;
+	font-family:'Open Sans', sans-serif
 }
 
 .tix-ticket-title,.tix-column-description strong {
-	font-family: 'Open Sans', sans-serif
+	font-family:'Open Sans', sans-serif
 }
 
 table,th,td {
-	border: 1px solid #f0f0f0
+	border:1px solid #f0f0f0
 }
 
 table {
-	border-collapse: collapse
+	border-collapse:collapse
 }
 
 .tix-attendee-form td.tix-left {
-	font-weight: 600;
-	font-family: 'Open Sans';
-	vertical-align: middle
+	font-weight:600;
+	font-family:'Open Sans';
+	vertical-align:middle
 }
 
 select[name="tix_payment_method"] {
-	display: none
+	display:none
 }
 
 .wcorg-speaker-description .avatar {
-	display: none
+	display:none
 }
 
 .wcorg-sponsor-description img {
-	max-width: 100%;
-	height: auto;
-	display: block;
-	margin: 0 auto 20px
+	max-width:100%;
+	height:auto;
+	display:block;
+	margin:0 auto 20px
 }
 
 .wcorg-sponsors > div > h2 {
-	margin: 50px auto!important;
-	font-size: 2em !important;
-	box-shadow: 0 0 0 3px #7ccbd8;
-	padding: 20px 30px;
-	display: inline-block;
-	text-align: center;
-	border: 3px solid #fff;
-	background-color: #7ccbd8;
-	color: #fff
+	margin:50px auto!important;
+	font-size:2em !important;
+	box-shadow:0 0 0 3px #7ccbd8;
+	padding:20px 30px;
+	display:inline-block;
+	text-align:center;
+	border:3px solid #fff;
+	background-color:#7ccbd8;
+	color:#fff
 }
 
 .wcorg-sponsors > div {
-	text-align: center
+	text-align:center
 }
 
 .wcorg-sponsors > div > div {
-	text-align: left
+	text-align:left
 }
 
 .wcorg-sponsor > h3 {
-	font-size: 1.8em !important
+	font-size:1.8em !important
 }
 
 .wcorg-sponsor {
-	margin-bottom: 50px
+	margin-bottom:50px
 }
 
 .wcpt-schedule td,.wcpt-schedule th {
-	padding: 6px 10px
+	padding:6px 10px
 }
 
 .global-session.przerwa-kanapkowa td,.global-session.otwarcie td,.global-session.przerwa-kawowa td,td.wcb-session-przerwa-kawowa-2,.global-session.przerwa-obiadowa td,.global-session.zamknicie-pierwszego-dnia td,.global-session.zakoczenie td,.middle-party-klub-plaa td {
-	background-color: #7ccbd8;
-	color: #fff
+	background-color:#7ccbd8;
+	color:#fff
 }
 
 .wcpt-schedule + h2 {
-	margin-top: 100px
+	margin-top:100px
 }
 
-.wcpt-session-speakers: before {
-	color: #888;
-	content: " - "
+.wcpt-session-speakers:before {
+	color:#888;
+	content:" - "
 }
 
 .wcpt-session-speakers {
-	font-size: .9em
+	font-size:.9em
 }
 
 .wcpt-session-speakers a {
-	display: inline-block;
-	color: #888
+	display:inline-block;
+	color:#888
 }
 
-@media screen and (min-width:  810px) {
+@media screen and (min-width: 810px) {
 	.full-width .site-content blockquote.alignleft,.full-width .site-content img.size-full.alignleft,.full-width .site-content img.size-large.alignleft,.full-width .site-content img.size-medium.alignleft,.full-width .site-content .wp-caption.alignleft,.full-width .site-content .alignleft {
-	border: 5px solid rgba(255,255,255,0.98);
-	transition: box-shadow .5s;
-	margin: 0 35px 35px -5px
+	border:5px solid rgba(255,255,255,0.98);
+	transition:box-shadow .5s;
+	margin:0 35px 35px -5px
 }
 
 
 }
 
 .wcorg-speaker {
-	border-bottom: 1px solid #c3eaf4;
-	margin-bottom: 30px
+	border-bottom:1px solid #c3eaf4;
+	margin-bottom:30px
 }
 
-.wcorg-speaker: before,.wcorg-speaker: after {
-	content: " ";
-	display: table
+.wcorg-speaker:before,.wcorg-speaker:after {
+	content:" ";
+	display:table
 }
 
-.wcorg-speaker: after {
-	clear: both
+.wcorg-speaker:after {
+	clear:both
 }
 
-.wcorg-speaker: hover img.alignleft {
-	box-shadow: 0 0 0 5px #c3eaf4
+.wcorg-speaker:hover img.alignleft {
+	box-shadow:0 0 0 5px #c3eaf4
 }
 
-@media screen and (max-width:  600px) {
+@media screen and (max-width: 600px) {
 	.alignleft,.wcorg-speaker .alignleft {
-	float: none;
-	display: block;
-	margin: 0 auto 30px
+	float:none;
+	display:block;
+	margin:0 auto 30px
 }
 
 .wcorg-speaker h2 {
-	text-align: center;
-	margin-bottom: 30px
+	text-align:center;
+	margin-bottom:30px
 }
 
 
 }
 
 .speaker-avatar {
-	display: none
+	display:none
 }
 
 td.wcpt-time {
-	width: 35px;
-	text-align: center;
-	font-weight: 600;
-	font-family: "Open Sans";
-	font-size: .95em
+	width:35px;
+	text-align:center;
+	font-weight:600;
+	font-family:"Open Sans";
+	font-size:.95em
 }
 
 .wcpt-schedule th {
-	text-align: center
+	text-align:center
 }
 
 .wcpt-schedule .wcpt-session-type-custom {
-	font-weight: 600;
-	font-family: "Open Sans";
-	text-align: center;
-	text-transform: uppercase;
-	font-size: .95em
+	font-weight:600;
+	font-family:"Open Sans";
+	text-align:center;
+	text-transform:uppercase;
+	font-size:.95em
 }
 
 .wcpt-schedule + br {
-	display: none
+	display:none
 }
 
 .wcpt-schedule + br + .wcpt-schedule {
-	margin-top: -25px
+	margin-top:-25px
 }
 
-@media screen and (min-width:  700px) {
+@media screen and (min-width: 700px) {
 	.wcpt-schedule .wcb-track-enterprise,.wcpt-schedule .wcb-track-freelancer,.wcpt-schedule .wcb-track-developer,.wcpt-schedule .wcb-track-user {
-	width: 50%
+	width:50%
 }
 
 
 }
 
 .wcpt-schedule td,.wcpt-schedule th {
-	padding: 10px
+	padding:10px
 }
 
 .wcpt-schedule .wcb-session-style-guide-driven-development-czyli-jak-wykonac-wiecej-za-mniej,.wcpt-schedule .wcb-session-czy-mozna-zbudowac-duzy-sklep-na-woocommerce,.wcpt-schedule .wcb-session-high-speed-wordpress-setup,.wcpt-schedule .wcb-session-the-art-of-support-growing-your-wordpress-customer-base-by-using-the-word-of-mouth,.wcpt-schedule .wcb-session-budowa-wlasnego-szablonu-czy-customizing-pobranego,.wcpt-schedule .wcb-session-multi-tenant-wordpress-for-enterprise-disaster-recovery-redundancy-high-availability-and-99-95-sla {
-	border-bottom-color: #fff
+	border-bottom-color:#fff
 }
 
 .wcpt-schedule .wcpt-session-empty {
-	border-top-color: #fff
+	border-top-color:#fff
 }
 
 .wcpt-schedule thead th {
-	color: #fff;
-	background: #14678d
+	color:#fff;
+	background:#14678d
 }
 
-@media screen and (max-width:  700px) {
+@media screen and (max-width: 700px) {
 	.wcpt-schedule .wcpt-session-speakers {
-	display: block;
-	margin-left: 0;
-	padding-left: 10px;
-	font-size: 1.2em;
-	text-decoration: none
+	display:block;
+	margin-left:0;
+	padding-left:10px;
+	font-size:1.2em;
+	text-decoration:none
 }
 
 .wcpt-schedule .wcpt-session-speakers a {
-	text-decoration: none
+	text-decoration:none
 }
 
-.wcpt-schedule .wcpt-session-speakers: before {
-	content: "Prelegent:  ";
-	padding-right: 5px;
-	display: inline-block;
-	font-style: normal
+.wcpt-schedule .wcpt-session-speakers:before {
+	content:"Prelegent: ";
+	padding-right:5px;
+	display:inline-block;
+	font-style:normal
 }
 
 .wcpt-schedule tr {
-	border-color: #7ccbd8
+	border-color:#7ccbd8
 }
 
 .wcpt-schedule tr.przerwa-kawowa,.wcpt-schedule tr.wcb-session-obiad,.wcpt-schedule tr.przerwa-obiadowa,.wcpt-schedule tr.otwarcie,.wcpt-schedule tr.zakoczenie,.wcpt-schedule tr.zamknicie-pierwszego-dnia,.wcpt-schedule tr.middle-party-klub-plaa {
-	border: none
+	border:none
 }
 
 .wcpt-schedule .wcpt-session-title {
-	font-size: 1.5em;
-	text-decoration: none;
-	padding-top: 10px
+	font-size:1.5em;
+	text-decoration:none;
+	padding-top:10px
 }
 
-.wcpt-schedule .wcpt-session-type-session: before {
-	background: #7ccbd8;
-	color: #fff;
-	border: none;
-	text-align: center;
-	font-weight: 600;
-	font-family: "Open Sans";
-	text-transform: uppercase;
-	padding: 10px 0;
-	margin-bottom: 0
+.wcpt-schedule .wcpt-session-type-session:before {
+	background:#7ccbd8;
+	color:#fff;
+	border:none;
+	text-align:center;
+	font-weight:600;
+	font-family:"Open Sans";
+	text-transform:uppercase;
+	padding:10px 0;
+	margin-bottom:0
 }
 
 
 }
 
 a.btn.btn-red {
-	background-color: #f25940
+	background-color:#f25940
 }
 
-a.btn.btn-red: hover {
-	background-color: #c12414
+a.btn.btn-red:hover {
+	background-color:#c12414
 }
 
 #tix-coupon-input {
-	margin-bottom: 15px
+	margin-bottom:15px
 }
 
