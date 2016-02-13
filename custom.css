@@ -113,9 +113,15 @@ a:hover {
 	margin-top:0
 }
 
-.site-content .entry-header,.site-content .entry-content,.site-content .entry-summary,.site-content .entry-meta,.site-content .page-content {
+.site-content .entry-header,
+.site-content .entry-content,
+.site-content .entry-summary,
+.site-content .entry-meta,
+.site-content .page-content {
 	background:transparent;
-	max-width:900px
+	max-width:900px;
+	font-size: 18px;
+	hyphens: none;
 }
 
 body {
