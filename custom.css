@@ -116,7 +116,9 @@ a:hover {
     }
 }
 
-.site #secondary .widget-title,.site #secondary .widget-title a {
+.site #secondary,
+.site #secondary .widget-title,
+.site #secondary .widget-title a {
 	color:#666
 }
 
