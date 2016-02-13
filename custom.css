@@ -75,18 +75,24 @@ a:hover {
 }
 
 .home .site .site-content {
-	margin:60px auto 50px;
-	max-width:80%
+	/*margin:60px auto 50px;
+	max-width:80%*/
+	margin-top: 50px;
 }
 
 @media screen and (min-width: 1080px) {
 	.site .site-content {
 	    margin-left:350px
     }
+
+    .home .site .site-content {
+        margin-left: 380px;
+        margin-right: 50px;
+    }
 }
 
 .home .site #secondary {
-	display:none
+	/*display:none*/
 }
 
 .site #secondary a.btn.btn-square {
@@ -240,7 +246,7 @@ h4 {
 }
 
 .featured-content .post-169 {
-	background:#7ccbd8
+	background:#005ce1
 }
 
 .featured-content .post-169:hover {
@@ -340,7 +346,7 @@ a.btn.btn-lg {
 }
 
 a.btn.btn-info {
-	background:#7ccbd8
+	background:#005ce1
 }
 
 a.btn.btn-info:hover {
@@ -758,12 +764,12 @@ p.row .col-6 {
 
 ::-moz-selection {
 	color:#fff;
-	background:#7ccbd8
+	background:#005ce1
 }
 
 ::selection {
 	color:#fff;
-	background:#7ccbd8
+	background:#005ce1
 }
 
 #subscribe-text {
@@ -869,12 +875,12 @@ select[name="tix_payment_method"] {
 .wcorg-sponsors > div > h2 {
 	margin:50px auto!important;
 	font-size:2em !important;
-	box-shadow:0 0 0 3px #7ccbd8;
+	box-shadow:0 0 0 3px #005ce1;
 	padding:20px 30px;
 	display:inline-block;
 	text-align:center;
 	border:3px solid #fff;
-	background-color:#7ccbd8;
+	background-color:#005ce1;
 	color:#fff
 }
 
@@ -899,7 +905,7 @@ select[name="tix_payment_method"] {
 }
 
 .global-session.przerwa-kanapkowa td,.global-session.otwarcie td,.global-session.przerwa-kawowa td,td.wcb-session-przerwa-kawowa-2,.global-session.przerwa-obiadowa td,.global-session.zamknicie-pierwszego-dnia td,.global-session.zakoczenie td,.middle-party-klub-plaa td {
-	background-color:#7ccbd8;
+	background-color:#005ce1;
 	color:#fff
 }
 
@@ -1046,7 +1052,7 @@ td.wcpt-time {
     }
 
     .wcpt-schedule tr {
-    	border-color:#7ccbd8
+    	border-color:#005ce1
     }
 
     .wcpt-schedule tr.przerwa-kawowa,.wcpt-schedule tr.wcb-session-obiad,.wcpt-schedule tr.przerwa-obiadowa,.wcpt-schedule tr.otwarcie,.wcpt-schedule tr.zakoczenie,.wcpt-schedule tr.zamknicie-pierwszego-dnia,.wcpt-schedule tr.middle-party-klub-plaa {
@@ -1060,7 +1066,7 @@ td.wcpt-time {
     }
 
     .wcpt-schedule .wcpt-session-type-session:before {
-    	background:#7ccbd8;
+    	background:#005ce1;
     	color:#fff;
     	border:none;
     	text-align:center;
