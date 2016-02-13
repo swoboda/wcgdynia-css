@@ -93,7 +93,8 @@ li > ul, li > ol {
 	    margin-left:350px
     }
 
-    .home .site .site-content {
+    .home .site .site-content,
+    .single-post .site .site-content {
         margin-left: 380px;
         margin-right: 50px;
         margin-top: 50px;
