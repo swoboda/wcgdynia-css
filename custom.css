@@ -295,7 +295,6 @@
 
 
 a  {
-
 	color:#143b42;
 	transition:color .5s
 }
@@ -373,10 +372,8 @@ a:hover {
 
 @media screen and (min-width: 1080px) {
 	.site .site-content {
-	margin-left:350px
-}
-
-
+	    margin-left:350px
+    }
 }
 
 .home .site #secondary {
@@ -389,16 +386,14 @@ a:hover {
 
 @media screen and (min-width: 1080px) {
 	.site #secondary {
-	margin-top:238px;
-	color:#666;
-	width:300px
-}
+	    margin-top:238px;
+        color:#666;
+        width:300px
+    }
 
-.page .site #secondary,.single .site #secondary {
-	margin-top:30px
-}
-
-
+    .page .site #secondary,.single .site #secondary {
+	    margin-top:30px
+    }
 }
 
 .site #secondary .widget-title,.site #secondary .widget-title a {
@@ -465,13 +460,11 @@ h4 {
 
 @media screen and (min-width: 783px) {
 	.primary-navigation a {
-	font-family:'Open Sans', sans-serif;
-	font-weight:700;
-	font-size:1.5em;
-	letter-spacing:1px
-}
-
-
+	    font-family:'Open Sans', sans-serif;
+	    font-weight:700;
+	    font-size:1.5em;
+	    letter-spacing:1px
+    }
 }
 
 .primary-navigation .current-menu-item > a,.primary-navigation .current-menu-ancestor > a {
@@ -510,14 +503,12 @@ h4 {
 
 @media screen and (min-width: 1080px) {
 	.search-box-wrapper {
-	left:auto;
-	max-width:1260px;
-	margin:0 auto;
-	right:auto;
-	position:static
-}
-
-
+        left:auto;
+        max-width:1260px;
+        margin:0 auto;
+        right:auto;
+        position:static
+    }
 }
 
 .search-box-wrapper .search-box {
@@ -580,34 +571,26 @@ h4 {
 
 @media screen and (max-width: 672px) {
 	.featured-content .post-thumbnail {
-	padding-top:330px
-}
-
-
+	    padding-top:330px
+    }
 }
 
 @media screen and (max-width: 560px) {
 	.featured-content .post-thumbnail {
-	padding-top:265px
-}
-
-
+	    padding-top:265px
+    }
 }
 
 @media screen and (max-width: 400px) {
 	.featured-content .post-thumbnail {
-	padding-top:185px
-}
-
-
+	    padding-top:185px
+    }
 }
 
 @media screen and (max-width: 350px) {
 	.featured-content .post-thumbnail {
-	padding-top:165px
-}
-
-
+	    padding-top:165px
+    }
 }
 
 .featured-content .post-thumbnail:hover img {
@@ -651,10 +634,8 @@ a.btn.btn-square {
 
 @media screen and (max-width: 1200px) {
 	a.btn.btn-square {
-	padding:90px 60px
-}
-
-
+	    padding:90px 60px
+    }
 }
 
 p.row {
@@ -674,11 +655,9 @@ p.row:after {
 
 @media screen and (max-width: 756px) {
 	p.row {
-	margin-left:0;
-	margin-right:0
-}
-
-
+        margin-left:0;
+        margin-right:0
+    }
 }
 
 p.row .col-6 {
@@ -690,13 +669,11 @@ p.row .col-6 {
 
 @media screen and (max-width: 756px) {
 	p.row .col-6 {
-	float:none;
-	width:100%;
-	margin-left:0;
-	margin-right:0
-}
-
-
+	    float:none;
+	    width:100%;
+	    margin-left:0;
+	    margin-right:0
+    }
 }
 
 #secondary .site-description {
@@ -736,46 +713,41 @@ p.row .col-6 {
 }
 
 @media screen and (min-width: 673px) {
-	.full-width .site-content .has-post-thumbnail .entry-header,.full-width .site-content .hentry.has-post-thumbnail:first-child {
-	margin-top:10px
-}
-
-
+	.full-width .site-content .has-post-thumbnail .entry-header,
+	.full-width .site-content .hentry.has-post-thumbnail:first-child {
+	    margin-top:10px
+    }
 }
 
 @media screen and (min-width: 1008px) {
 	.post-thumbnail {
-	padding-right:0;
-	padding-left:30px;
-	box-sizing:border-box;
-	background:transparent
+	    padding-right:0;
+	    padding-left:30px;
+	    box-sizing:border-box;
+	    background:transparent
 }
 
-.home .post-thumbnail {
-	padding-left:0
-}
+    .home .post-thumbnail {
+    	padding-left:0
+    }
 
-.content-area,.content-sidebar {
-	padding-top:0
-}
+    .content-area,.content-sidebar {
+    	padding-top:0
+    }
 
-.full-width .site-content .hentry.has-post-thumbnail:first-child {
-	margin-top:0
-}
-
-
+    .full-width .site-content .hentry.has-post-thumbnail:first-child {
+    	margin-top:0
+    }
 }
 
 @media screen and (max-width: 1007px) {
 	.content-area,.content-sidebar {
-	padding-top:0
-}
+	    padding-top:0
+    }
 
-.full-width .site-content .hentry.has-post-thumbnail:first-child {
-	margin-top:0
-}
-
-
+    .full-width .site-content .hentry.has-post-thumbnail:first-child {
+    	margin-top:0
+    }
 }
 
 .site-title a {
@@ -798,10 +770,8 @@ p.row .col-6 {
 
 @media screen and (max-width: 600px) {
 	#menu-footer-menu li {
-	display:block
-}
-
-
+	    display:block
+    }
 }
 
 #menu-footer-menu li a {
@@ -861,17 +831,15 @@ p.row .col-6 {
 
 @media screen and (max-width: 600px) {
 	#site-header > a {
-	display:block;
-	background:url('//krakow.wordcamp.org/2015/files/2015/06/header_mobile.png') no-repeat top center;
-	background-size:cover;
-	min-height:123vw
-}
+    	display:block;
+    	background:url('//krakow.wordcamp.org/2015/files/2015/06/header_mobile.png') no-repeat top center;
+    	background-size:cover;
+    	min-height:123vw
+    }
 
-#site-header > a img {
-	opacity:0
-}
-
-
+    #site-header > a img {
+    	opacity:0
+    }
 }
 
 .primary-navigation.toggled-on {
@@ -881,39 +849,35 @@ p.row .col-6 {
 
 @media screen and (min-width: 783px) {
 	.primary-navigation.toggled-on {
-	margin:0 -30px;
-	width:100%;
-	float:none;
-	position:absolute
-}
+    	margin:0 -30px;
+    	width:100%;
+    	float:none;
+    	position:absolute
+    }
 
-.primary-navigation.toggled-on li {
-	height:auto;
-	line-height:1.2
-}
+    .primary-navigation.toggled-on li {
+    	height:auto;
+    	line-height:1.2
+    }
 
-.primary-navigation.toggled-on a {
-	display:block;
-	margin:0;
-	line-height:1.2;
-	text-align:right;
-	padding:10px 15px!important;
-	color:#fff
-}
+    .primary-navigation.toggled-on a {
+    	display:block;
+    	margin:0;
+    	line-height:1.2;
+    	text-align:right;
+    	padding:10px 15px!important;
+    	color:#fff
+    }
 
-.primary-navigation.toggled-on .page_item_has_children > a:after,.primary-navigation.toggled-on .menu-item-has-children > a:after {
-	display:none
-}
-
-
+    .primary-navigation.toggled-on .page_item_has_children > a:after,.primary-navigation.toggled-on .menu-item-has-children > a:after {
+    	display:none
+    }
 }
 
 @media screen and (min-width: 672px) {
 	.primary-navigation.toggled-on {
-	margin:0 -30px
-}
-
-
+	    margin:0 -30px
+    }
 }
 
 .primary-navigation.toggled-on .nav-menu {
@@ -936,85 +900,73 @@ p.row .col-6 {
 
 @media screen and (min-width: 673px) and (max-width: 1008px) {
 	#post-61 {
-	float:none;
-	display:block;
-	margin:0 auto;
-	clear:both
-}
-
-
+    	float:none;
+    	display:block;
+    	margin:0 auto;
+    	clear:both
+    }
 }
 
 @media screen and (min-width: 783px) {
 	.primary-navigation .menu-toggle {
-	display:block;
-	padding:0
-}
-
-
+	    display:block;
+        padding:0
+    }
 }
 
 @media screen and (min-width: 1008px) {
 	.primary-navigation .menu-toggle {
-	display:none;
-	padding:0
-}
-
-
+    	display:none;
+    	padding:0
+    }
 }
 
 @media screen and (min-width: 783px) and (max-width: 1007px) {
 	.primary-navigation .nav-menu {
-	border-bottom:0;
-	display:none
-}
+    	border-bottom:0;
+    	display:none
+    }
 
-.primary-navigation .nav-menu li {
-	display:block
-}
-
-
+    .primary-navigation .nav-menu li {
+    	display:block
+    }
 }
 
 @media screen and (min-width: 1008px) {
 	.primary-navigation .nav-menu {
-	border-bottom:0;
-	display:block
-}
+    	border-bottom:0;
+    	display:block
+    }
 
-.primary-navigation .nav-menu > li a {
-	font-size:1.1em
-}
-
-
+    .primary-navigation .nav-menu > li a {
+    	font-size:1.1em
+    }
 }
 
 @media screen and (min-width: 1100px) {
 	.primary-navigation .nav-menu > li a {
-	font-size:1.5em
-}
-
-
+	    font-size:1.5em
+    }
 }
 
 @media screen and (min-width: 1008px) and (max-width: 1080px) {
 	.site-content {
-	margin-left:320px
+	    margin-left:320px
+    }
+
+    #secondary {
+    	width:289px
+    }
+
+    #secondary .site-description {
+    	margin-top:30px;
+    	color:#666
+    }
 }
 
-#secondary {
-	width:289px
-}
-
-#secondary .site-description {
-	margin-top:30px;
-	color:#666
-}
-
-
-}
-
-.widget-area .widget input,.widget-area .widget textarea,#subscribe-email input {
+.widget-area .widget input,
+.widget-area .widget textarea,
+#subscribe-email input {
 	border:1px solid rgba(0,0,0,0.1);
 	border-radius:2px;
 	color:#2b2b2b;
@@ -1023,7 +975,9 @@ p.row .col-6 {
 	background-color:#fff
 }
 
-.widget-area .widget input:focus,.widget-area .widget textarea:focus,#subscribe-email input:focus {
+.widget-area .widget input:focus,
+.widget-area .widget textarea:focus,
+#subscribe-email input:focus {
 	border:1px solid rgba(0,0,0,0.3);
 	outline:0
 }
@@ -1042,7 +996,15 @@ p.row .col-6 {
 	border-radius:2px
 }
 
-.widget input[type="submit"]:hover,.widget input[type="submit"]:focus,.widget input[type="submit"]:active,.form-submit input[type="submit"]:hover,.form-submit input[type="submit"]:focus,.form-submit input[type="submit"]:active,.tix-js input[type="submit"]:hover,.tix-js input[type="submit"]:focus,.tix-js input[type="submit"]:active {
+.widget input[type="submit"]:hover,
+.widget input[type="submit"]:focus,
+.widget input[type="submit"]:active,
+.form-submit input[type="submit"]:hover,
+.form-submit input[type="submit"]:focus,
+.form-submit input[type="submit"]:active,
+.tix-js input[type="submit"]:hover,
+.tix-js input[type="submit"]:focus,
+.tix-js input[type="submit"]:active {
 	background:#0e4660
 }
 
@@ -1087,10 +1049,8 @@ a.post-thumbnail:hover {
 
 @media screen and (min-width: 594px) {
 	.site-content .has-post-thumbnail .entry-header {
-	margin-top:0
-}
-
-
+	    margin-top:0
+    }
 }
 
 .entry-meta .tag-links a {
@@ -1119,20 +1079,18 @@ a.post-thumbnail:hover {
 
 @media screen and (max-width: 400px) {
 	.list-view .site-content .post-thumbnail img {
-	float:none;
-	margin:0 0 10px;
-	width:100%
-}
+    	float:none;
+    	margin:0 0 10px;
+    	width:100%
+    }
 
-.list-view .site-content .entry-title {
-	font-size:1.2em !important
-}
+    .list-view .site-content .entry-title {
+    	font-size:1.2em !important
+    }
 
-.site-title a {
-	font-size:.5em
-}
-
-
+    .site-title a {
+    	font-size:.5em
+    }
 }
 
 .tix-error,.tix-notice,.tix-info {
@@ -1234,12 +1192,10 @@ select[name="tix_payment_method"] {
 
 @media screen and (min-width: 810px) {
 	.full-width .site-content blockquote.alignleft,.full-width .site-content img.size-full.alignleft,.full-width .site-content img.size-large.alignleft,.full-width .site-content img.size-medium.alignleft,.full-width .site-content .wp-caption.alignleft,.full-width .site-content .alignleft {
-	border:5px solid rgba(255,255,255,0.98);
-	transition:box-shadow .5s;
-	margin:0 35px 35px -5px
-}
-
-
+    	border:5px solid rgba(255,255,255,0.98);
+    	transition:box-shadow .5s;
+    	margin:0 35px 35px -5px
+    }
 }
 
 .wcorg-speaker {
@@ -1262,17 +1218,15 @@ select[name="tix_payment_method"] {
 
 @media screen and (max-width: 600px) {
 	.alignleft,.wcorg-speaker .alignleft {
-	float:none;
-	display:block;
-	margin:0 auto 30px
-}
+    	float:none;
+    	display:block;
+    	margin:0 auto 30px
+    }
 
-.wcorg-speaker h2 {
-	text-align:center;
-	margin-bottom:30px
-}
-
-
+    .wcorg-speaker h2 {
+    	text-align:center;
+    	margin-bottom:30px
+    }
 }
 
 .speaker-avatar {
@@ -1308,7 +1262,10 @@ td.wcpt-time {
 }
 
 @media screen and (min-width: 700px) {
-	.wcpt-schedule .wcb-track-enterprise,.wcpt-schedule .wcb-track-freelancer,.wcpt-schedule .wcb-track-developer,.wcpt-schedule .wcb-track-user {
+	.wcpt-schedule .wcb-track-enterprise,
+	.wcpt-schedule .wcb-track-freelancer,
+	.wcpt-schedule .wcb-track-developer,
+	.wcpt-schedule .wcb-track-user {
 	width:50%
 }
 
@@ -1319,7 +1276,12 @@ td.wcpt-time {
 	padding:10px
 }
 
-.wcpt-schedule .wcb-session-style-guide-driven-development-czyli-jak-wykonac-wiecej-za-mniej,.wcpt-schedule .wcb-session-czy-mozna-zbudowac-duzy-sklep-na-woocommerce,.wcpt-schedule .wcb-session-high-speed-wordpress-setup,.wcpt-schedule .wcb-session-the-art-of-support-growing-your-wordpress-customer-base-by-using-the-word-of-mouth,.wcpt-schedule .wcb-session-budowa-wlasnego-szablonu-czy-customizing-pobranego,.wcpt-schedule .wcb-session-multi-tenant-wordpress-for-enterprise-disaster-recovery-redundancy-high-availability-and-99-95-sla {
+.wcpt-schedule .wcb-session-style-guide-driven-development-czyli-jak-wykonac-wiecej-za-mniej,
+.wcpt-schedule .wcb-session-czy-mozna-zbudowac-duzy-sklep-na-woocommerce,
+.wcpt-schedule .wcb-session-high-speed-wordpress-setup,
+.wcpt-schedule .wcb-session-the-art-of-support-growing-your-wordpress-customer-base-by-using-the-word-of-mouth,
+.wcpt-schedule .wcb-session-budowa-wlasnego-szablonu-czy-customizing-pobranego,
+.wcpt-schedule .wcb-session-multi-tenant-wordpress-for-enterprise-disaster-recovery-redundancy-high-availability-and-99-95-sla {
 	border-bottom-color:#fff
 }
 
@@ -1334,51 +1296,49 @@ td.wcpt-time {
 
 @media screen and (max-width: 700px) {
 	.wcpt-schedule .wcpt-session-speakers {
-	display:block;
-	margin-left:0;
-	padding-left:10px;
-	font-size:1.2em;
-	text-decoration:none
-}
+    	display:block;
+    	margin-left:0;
+    	padding-left:10px;
+    	font-size:1.2em;
+    	text-decoration:none
+    }
 
-.wcpt-schedule .wcpt-session-speakers a {
-	text-decoration:none
-}
+    .wcpt-schedule .wcpt-session-speakers a {
+    	text-decoration:none
+    }
 
-.wcpt-schedule .wcpt-session-speakers:before {
-	content:"Prelegent: ";
-	padding-right:5px;
-	display:inline-block;
-	font-style:normal
-}
+    .wcpt-schedule .wcpt-session-speakers:before {
+    	content:"Prelegent: ";
+    	padding-right:5px;
+    	display:inline-block;
+    	font-style:normal
+    }
 
-.wcpt-schedule tr {
-	border-color:#7ccbd8
-}
+    .wcpt-schedule tr {
+    	border-color:#7ccbd8
+    }
 
-.wcpt-schedule tr.przerwa-kawowa,.wcpt-schedule tr.wcb-session-obiad,.wcpt-schedule tr.przerwa-obiadowa,.wcpt-schedule tr.otwarcie,.wcpt-schedule tr.zakoczenie,.wcpt-schedule tr.zamknicie-pierwszego-dnia,.wcpt-schedule tr.middle-party-klub-plaa {
-	border:none
-}
+    .wcpt-schedule tr.przerwa-kawowa,.wcpt-schedule tr.wcb-session-obiad,.wcpt-schedule tr.przerwa-obiadowa,.wcpt-schedule tr.otwarcie,.wcpt-schedule tr.zakoczenie,.wcpt-schedule tr.zamknicie-pierwszego-dnia,.wcpt-schedule tr.middle-party-klub-plaa {
+    	border:none
+    }
 
-.wcpt-schedule .wcpt-session-title {
-	font-size:1.5em;
-	text-decoration:none;
-	padding-top:10px
-}
+    .wcpt-schedule .wcpt-session-title {
+    	font-size:1.5em;
+    	text-decoration:none;
+    	padding-top:10px
+    }
 
-.wcpt-schedule .wcpt-session-type-session:before {
-	background:#7ccbd8;
-	color:#fff;
-	border:none;
-	text-align:center;
-	font-weight:600;
-	font-family:"Open Sans";
-	text-transform:uppercase;
-	padding:10px 0;
-	margin-bottom:0
-}
-
-
+    .wcpt-schedule .wcpt-session-type-session:before {
+    	background:#7ccbd8;
+    	color:#fff;
+    	border:none;
+    	text-align:center;
+    	font-weight:600;
+    	font-family:"Open Sans";
+    	text-transform:uppercase;
+    	padding:10px 0;
+    	margin-bottom:0
+    }
 }
 
 a.btn.btn-red {
