@@ -101,13 +101,13 @@ a:hover {
 
 @media screen and (min-width: 1080px) {
 	.site #secondary {
-	    margin-top:38px;
+	    margin-top:40px;
         color:#666;
         width:300px
     }
 
     .page .site #secondary,.single .site #secondary {
-	    margin-top:38px
+	    margin-top:40px
     }
 }
 
@@ -443,6 +443,10 @@ p.row .col-6 {
 	.full-width .site-content .hentry.has-post-thumbnail:first-child {
 	    margin-top:10px
     }
+}
+
+.full-width .post-thumbnail img {
+    margin: 0;
 }
 
 @media screen and (min-width: 1008px) {
