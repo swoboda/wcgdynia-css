@@ -573,7 +573,7 @@ p.row .col-6 {
 }
 
 @media screen and (max-width: 600px) {
-	#site-header > a {
+	/*#site-header > a {
     	display:block;
     	background:url('//krakow.wordcamp.org/2015/files/2015/06/header_mobile.png') no-repeat top center;
     	background-size:cover;
@@ -582,7 +582,7 @@ p.row .col-6 {
 
     #site-header > a img {
     	opacity:0
-    }
+    }*/
 }
 
 .primary-navigation.toggled-on {
@@ -672,6 +672,10 @@ p.row .col-6 {
 
     .primary-navigation .nav-menu li {
     	display:block
+    }
+
+    .home .site .site-content {
+        margin-top: 0;
     }
 }
 
