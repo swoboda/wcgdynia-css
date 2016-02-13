@@ -45,6 +45,10 @@ a:hover {
 	max-height:48px
 }
 
+.admin-bar .site-header {
+    top: 32px;
+}
+
 .site .header-main {
 	max-width:1230px;
 	margin:0 auto
