@@ -538,7 +538,7 @@ p.row .col-6 {
 }
 
 .contact-form input[type="submit"]:hover {
-	background-color:#0e4660
+	background-color:#003886
 }
 
 @media screen and (max-width: 600px) {
@@ -720,7 +720,7 @@ p.row .col-6 {
 .tix-js input[type="submit"]:hover,
 .tix-js input[type="submit"]:focus,
 .tix-js input[type="submit"]:active {
-	background:#0e4660
+	background:#003886
 }
 
 .tix-js input[type="submit"] {
