@@ -322,6 +322,10 @@ h4 {
 	.featured-content .post-thumbnail {
 	    padding-top:185px
     }
+
+    .list-view .site-content .cat-links, .list-view .site-content .type-post .entry-content, .list-view .site-content .type-page .entry-content, .list-view .site-content .type-post .entry-summary, .list-view .site-content .type-page .entry-summary, .list-view .site-content footer.entry-meta {
+        display: block;
+    }
 }
 
 @media screen and (max-width: 350px) {
